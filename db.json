@@ -1,0 +1,1498 @@
+{
+  "country": [
+    {
+      "AF": {
+        "name": "Afghanistan",
+        "kanndaName": "ಅಫ್ಘಾನಿಸ್ತಾನ"
+      }
+    },
+    {
+      "AL": {
+        "name": "Albania",
+        "kanndaName": "ಅಲ್ಬೇನಿಯಾ"
+      }
+    },
+    {
+      "DZ": {
+        "name": "Algeria",
+        "kanndaName": "ಅಲ್ಜೀರಿಯಾ"
+      }
+    },
+    {
+      "AS": {
+        "name": "American Samoa",
+        "kanndaName": "ಅಮೆರಿಕನ್ ಸಮೋವಾ"
+      }
+    },
+    {
+      "AD": {
+        "name": "Andorra",
+        "kanndaName": "ಅಂಡೋರಾ"
+      }
+    },
+    {
+      "AO": {
+        "name": "Angola",
+        "kanndaName": "ಅಂಗೋಲಾ"
+      }
+    },
+    {
+      "AI": {
+        "name": "Anguilla",
+        "kanndaName": "ಅಂಗುಯಿಲಾ"
+      }
+    },
+    {
+      "AQ": {
+        "name": "Antarctica",
+        "kanndaName": "ಅಂಟಾರ್ಕ್ಟಿಕಾ"
+      }
+    },
+    {
+      "AG": {
+        "name": "Antigua and Barbuda",
+        "kanndaName": "ಆಂಟಿಗುವಾ ಮತ್ತು ಬಾರ್ಬುಡಾ"
+      }
+    },
+    {
+      "AR": {
+        "name": "Argentina",
+        "kanndaName": "ಅರ್ಜೆಂಟೀನಾ"
+      }
+    },
+    {
+      "AM": {
+        "name": "Armenia",
+        "kanndaName": "ಅರ್ಮೇನಿಯಾ"
+      }
+    },
+    {
+      "AW": {
+        "name": "Aruba",
+        "kanndaName": "ಅರುಬಾ"
+      }
+    },
+    {
+      "AU": {
+        "name": "Australia",
+        "kanndaName": "ಆಸ್ಟ್ರೇಲಿಯಾ"
+      }
+    },
+    {
+      "AT": {
+        "name": "Austria",
+        "kanndaName": "ಆಸ್ಟ್ರಿಯಾ"
+      }
+    },
+    {
+      "AZ": {
+        "name": "Azerbaijan",
+        "kanndaName": "ಅಜೆರ್ಬೈಜಾನ್"
+      }
+    },
+    {
+      "BS": {
+        "name": "Bahamas",
+        "kanndaName": "ಬಹಾಮಾಸ್"
+      }
+    },
+    {
+      "BH": {
+        "name": "Bahrain",
+        "kanndaName": "ಬಹ್ರೇನ್"
+      }
+    },
+    {
+      "BD": {
+        "name": "Bangladesh",
+        "kanndaName": "ಬಾಂಗ್ಲಾದೇಶ"
+      }
+    },
+    {
+      "BB": {
+        "name": "Barbados",
+        "kanndaName": "ಬಾರ್ಬಡೋಸ್"
+      }
+    },
+    {
+      "BY": {
+        "name": "Belarus",
+        "kanndaName": "ಬೆಲಾರಸ್"
+      }
+    },
+    {
+      "BE": {
+        "name": "Belgium",
+        "kanndaName": "ಬೆಲ್ಜಿಯಂ"
+      }
+    },
+    {
+      "BZ": {
+        "name": "Belize",
+        "kanndaName": "ಬೆಲೀಜ್"
+      }
+    },
+    {
+      "BJ": {
+        "name": "Benin",
+        "kanndaName": "ಬೆನಿನ್"
+      }
+    },
+    {
+      "BM": {
+        "name": "Bermuda",
+        "kanndaName": "ಬರ್ಮುಡಾ"
+      }
+    },
+    {
+      "BT": {
+        "name": "Bhutan",
+        "kanndaName": "ಭೂತಾನ್"
+      }
+    },
+    {
+      "BO": {
+        "name": "Bolivia",
+        "kanndaName": "ಬೊಲಿವಿಯಾ"
+      }
+    },
+    {
+      "BQ": {
+        "name": "Bonaire",
+        "kanndaName": "ಬೊನೈರ್"
+      }
+    },
+    {
+      "BA": {
+        "name": "Bosnia and Herzegovina",
+        "kanndaName": "ಬೋಸ್ನಿಯಾ ಮತ್ತು ಹರ್ಜೆಗೋವಿನಾ"
+      }
+    },
+    {
+      "BW": {
+        "name": "Botswana",
+        "kanndaName": "ಬೋಟ್ಸ್ವಾನ"
+      }
+    },
+    {
+      "BV": {
+        "name": "Bouvet Island",
+        "kanndaName": "ಬೌವೆಟ್ ದ್ವೀಪ"
+      }
+    },
+    {
+      "BR": {
+        "name": "Brazil",
+        "kanndaName": "ಬ್ರೆಜಿಲ್"
+      }
+    },
+    {
+      "IO": {
+        "name": "British Indian Ocean Territory",
+        "kanndaName": "ಬ್ರಿಟಿಷ್ ಹಿಂದೂ ಮಹಾಸಾಗರ ಪ್ರದೇಶ"
+      }
+    },
+    {
+      "BN": {
+        "name": "Brunei Darussalam",
+        "kanndaName": "ಬ್ರೂನಿ ದಾರುಸ್ಸಲಾಮ್"
+      }
+    },
+    {
+      "BG": {
+        "name": "Bulgaria",
+        "kanndaName": "ಬಲ್ಗೇರಿಯಾ"
+      }
+    },
+    {
+      "BF": {
+        "name": "Burkina Faso",
+        "kanndaName": "ಬುರ್ಕಿನಾ ಫಾಸೊ"
+      }
+    },
+    {
+      "BI": {
+        "name": "Burundi",
+        "kanndaName": "ಬುರುಂಡಿ"
+      }
+    },
+    {
+      "CV": {
+        "name": "Cabo Verde",
+        "kanndaName": "ಕ್ಯಾಬೊ ವರ್ಡೆ"
+      }
+    },
+    {
+      "KH": {
+        "name": "Cambodia",
+        "kanndaName": "ಕಾಂಬೋಡಿಯಾ"
+      }
+    },
+    {
+      "CM": {
+        "name": "Cameroon",
+        "kanndaName": "ಕ್ಯಾಮರೂನ್"
+      }
+    },
+    {
+      "CA": {
+        "name": "Canada",
+        "kanndaName": "ಕೆನಡಾ"
+      }
+    },
+    {
+      "KY": {
+        "name": "Cayman Islands",
+        "kanndaName": "ಕೇಮನ್ ದ್ವೀಪಗಳು"
+      }
+    },
+    {
+      "CF": {
+        "name": "Central African Republic",
+        "kanndaName": "ಮಧ್ಯ ಆಫ್ರಿಕಾದ ಗಣರಾಜ್ಯ"
+      }
+    },
+    {
+      "TD": {
+        "name": "Chad",
+        "kanndaName": "ಚಾಡ್"
+      }
+    },
+    {
+      "CL": {
+        "name": "Chile",
+        "kanndaName": "ಚಿಲಿ"
+      }
+    },
+    {
+      "CN": {
+        "name": "China",
+        "kanndaName": "ಚೀನಾ"
+      }
+    },
+    {
+      "CX": {
+        "name": "Christmas Island",
+        "kanndaName": "ಕ್ರಿಸ್ಮಸ್ ದ್ವೀಪ"
+      }
+    },
+    {
+      "CC": {
+        "name": "Cocos",
+        "kanndaName": "ಕೊಕೊಸ್"
+      }
+    },
+    {
+      "CO": {
+        "name": "Colombia",
+        "kanndaName": "ಕೊಲಂಬಿಯಾ"
+      }
+    },
+    {
+      "KM": {
+        "name": "Comoros",
+        "kanndaName": "ಕೊಮೊರೊಸ್"
+      }
+    },
+    {
+      "CD": {
+        "name": "Congo",
+        "kanndaName": "ಕಾಂಗೋ"
+      }
+    },
+    {
+      "CG": {
+        "name": "Congo",
+        "kanndaName": "ಕಾಂಗೋ"
+      }
+    },
+    {
+      "CK": {
+        "name": "Cook Islands",
+        "kanndaName": "ಕುಕ್ ದ್ವೀಪಗಳು"
+      }
+    },
+    {
+      "CR": {
+        "name": "Costa Rica",
+        "kanndaName": "ಕೋಸ್ಟ ರಿಕಾ"
+      }
+    },
+    {
+      "HR": {
+        "name": "Croatia",
+        "kanndaName": "ಕ್ರೊಯೇಷಿಯಾ"
+      }
+    },
+    {
+      "CU": {
+        "name": "Cuba",
+        "kanndaName": "ಕ್ಯೂಬಾ"
+      }
+    },
+    {
+      "CW": {
+        "name": "Curaçao",
+        "kanndaName": "ಕುರಾಕಾವೊ"
+      }
+    },
+    {
+      "CY": {
+        "name": "Cyprus",
+        "kanndaName": "ಸೈಪ್ರಸ್"
+      }
+    },
+    {
+      "CZ": {
+        "name": "Czechia",
+        "kanndaName": "ಜೆಕಿಯಾ"
+      }
+    },
+    {
+      "CI": {
+        "name": "Côte",
+        "kanndaName": "ಕೋಟ್"
+      }
+    },
+    {
+      "DK": {
+        "name": "Denmark",
+        "kanndaName": "ಡೆನ್ಮಾರ್ಕ್"
+      }
+    },
+    {
+      "DJ": {
+        "name": "Djibouti",
+        "kanndaName": "ಜಿಬೌಟಿ"
+      }
+    },
+    {
+      "DM": {
+        "name": "Dominica",
+        "kanndaName": "ಡೊಮಿನಿಕಾ"
+      }
+    },
+    {
+      "DO": {
+        "name": "Dominican Republic",
+        "kanndaName": "ಡೊಮಿನಿಕನ್ ರಿಪಬ್ಲಿಕ್"
+      }
+    },
+    {
+      "EC": {
+        "name": "Ecuador",
+        "kanndaName": "ಈಕ್ವೆಡಾರ್"
+      }
+    },
+    {
+      "EG": {
+        "name": "Egypt",
+        "kanndaName": "ಈಜಿಪ್ಟ್"
+      }
+    },
+    {
+      "SV": {
+        "name": "El Salvador",
+        "kanndaName": "ಎಲ್ ಸಾಲ್ವಡಾರ್"
+      }
+    },
+    {
+      "GQ": {
+        "name": "Equatorial Guinea",
+        "kanndaName": "ಈಕ್ವಟೋರಿಯಲ್ ಗಿನಿ"
+      }
+    },
+    {
+      "ER": {
+        "name": "Eritrea",
+        "kanndaName": "ಎರಿಟ್ರಿಯಾ"
+      }
+    },
+    {
+      "EE": {
+        "name": "Estonia",
+        "kanndaName": "ಎಸ್ಟೋನಿಯಾ"
+      }
+    },
+    {
+      "SZ": {
+        "name": "Eswatini",
+        "kanndaName": "ಈಸ್ವತಿನಿ"
+      }
+    },
+    {
+      "ET": {
+        "name": "Ethiopia",
+        "kanndaName": "ಇಥಿಯೋಪಿಯಾ"
+      }
+    },
+    {
+      "FK": {
+        "name": "Falkland Islands",
+        "kanndaName": "ಫಾಕ್ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು"
+      }
+    },
+    {
+      "FO": {
+        "name": "Faroe Islands",
+        "kanndaName": "ಫಾರೋ ದ್ವೀಪಗಳು"
+      }
+    },
+    {
+      "FJ": {
+        "name": "Fiji",
+        "kanndaName": "ಫಿಜಿ"
+      }
+    },
+    {
+      "FI": {
+        "name": "Finland",
+        "kanndaName": "ಫಿನ್ಲ್ಯಾಂಡ್"
+      }
+    },
+    {
+      "FR": {
+        "name": "France",
+        "kanndaName": "ಫ್ರಾನ್ಸ್"
+      }
+    },
+    {
+      "GF": {
+        "name": "French Guiana",
+        "kanndaName": "ಫ್ರೆಂಚ್ ಗಯಾನಾ"
+      }
+    },
+    {
+      "PF": {
+        "name": "French Polynesia",
+        "kanndaName": "ಫ್ರೆಂಚ್ ಪಾಲಿನೇಷ್ಯಾ"
+      }
+    },
+    {
+      "TF": {
+        "name": "French Southern Territories",
+        "kanndaName": "ಫ್ರೆಂಚ್ ದಕ್ಷಿಣ ಪ್ರಾಂತ್ಯಗಳು"
+      }
+    },
+    {
+      "GA": {
+        "name": "Gabon",
+        "kanndaName": "ಗ್ಯಾಬೊನ್"
+      }
+    },
+    {
+      "GM": {
+        "name": "Gambia",
+        "kanndaName": "ಗ್ಯಾಂಬಿಯಾ"
+      }
+    },
+    {
+      "GE": {
+        "name": "Georgia",
+        "kanndaName": "ಜಾರ್ಜಿಯಾ"
+      }
+    },
+    {
+      "DE": {
+        "name": "Germany",
+        "kanndaName": "ಜರ್ಮನಿ"
+      }
+    },
+    {
+      "GH": {
+        "name": "Ghana",
+        "kanndaName": "ಘಾನಾ"
+      }
+    },
+    {
+      "GI": {
+        "name": "Gibraltar",
+        "kanndaName": "ಜಿಬ್ರಾಲ್ಟರ್"
+      }
+    },
+    {
+      "GR": {
+        "name": "Greece",
+        "kanndaName": "ಗ್ರೀಸ್"
+      }
+    },
+    {
+      "GL": {
+        "name": "Greenland",
+        "kanndaName": "ಗ್ರೀನ್ಲ್ಯಾಂಡ್"
+      }
+    },
+    {
+      "GD": {
+        "name": "Grenada",
+        "kanndaName": "ಗ್ರೆನಡಾ"
+      }
+    },
+    {
+      "GP": {
+        "name": "Guadeloupe",
+        "kanndaName": "ಗ್ವಾಡೆಲೋಪ್"
+      }
+    },
+    {
+      "GU": {
+        "name": "Guam",
+        "kanndaName": "ಗುವಾಮ್"
+      }
+    },
+    {
+      "GT": {
+        "name": "Guatemala",
+        "kanndaName": "ಗ್ವಾಟೆಮಾಲಾ"
+      }
+    },
+    {
+      "GG": {
+        "name": "Guernsey",
+        "kanndaName": "ಗುರ್ನಸಿ"
+      }
+    },
+    {
+      "GN": {
+        "name": "Guinea",
+        "kanndaName": "ಗಿನಿಯಾ"
+      }
+    },
+    {
+      "GW": {
+        "name": "Guinea-Bissau",
+        "kanndaName": "ಗಿನಿಯಾ-ಬಿಸ"
+      }
+    },
+    {
+      "GY": {
+        "name": "Guyana",
+        "kanndaName": "ಗಯಾನಾ"
+      }
+    },
+    {
+      "HT": {
+        "name": "Haiti",
+        "kanndaName": "ಹೈಟಿ"
+      }
+    },
+    {
+      "HM": {
+        "name": "Heard",
+        "kanndaName": "ಕೇಳಿದೆ"
+      }
+    },
+    {
+      "VA": {
+        "name": "Holy See",
+        "kanndaName": "ಹೋಲಿ ಸೀ"
+      }
+    },
+    {
+      "HN": {
+        "name": "Honduras",
+        "kanndaName": "ಹೊಂಡುರಾಸ್"
+      }
+    },
+    {
+      "HK": {
+        "name": "Hong Kong",
+        "kanndaName": "ಹಾಂಗ್ ಕಾಂಗ್"
+      }
+    },
+    {
+      "HU": {
+        "name": "Hungary",
+        "kanndaName": "ಹಂಗೇರಿ"
+      }
+    },
+    {
+      "IS": {
+        "name": "Iceland",
+        "kanndaName": "ಐಸ್ಲ್ಯಾಂಡ್"
+      }
+    },
+    {
+      "IN": {
+        "name": "India",
+        "kanndaName": "ಭಾರತ"
+      }
+    },
+    {
+      "ID": {
+        "name": "Indonesia",
+        "kanndaName": "ಇಂಡೋನೇಷ್ಯಾ"
+      }
+    },
+    {
+      "IR": {
+        "name": "Iran",
+        "kanndaName": "ಇರಾನ್"
+      }
+    },
+    {
+      "IQ": {
+        "name": "Iraq",
+        "kanndaName": "ಇರಾಕ್"
+      }
+    },
+    {
+      "IE": {
+        "name": "Ireland",
+        "kanndaName": "ಐರ್ಲೆಂಡ್"
+      }
+    },
+    {
+      "IM": {
+        "name": "Isle of Man",
+        "kanndaName": "ಐಲ್ ಆಫ್ ಮ್ಯಾನ್"
+      }
+    },
+    {
+      "IL": {
+        "name": "Israel",
+        "kanndaName": "ಇಸ್ರೇಲ್"
+      }
+    },
+    {
+      "IT": {
+        "name": "Italy",
+        "kanndaName": "ಇಟಲಿ"
+      }
+    },
+    {
+      "JM": {
+        "name": "Jamaica",
+        "kanndaName": "ಜಮೈಕಾ"
+      }
+    },
+    {
+      "JP": {
+        "name": "Japan",
+        "kanndaName": "ಜಪಾನ್"
+      }
+    },
+    {
+      "JE": {
+        "name": "Jersey",
+        "kanndaName": "ಜರ್ಸಿ"
+      }
+    },
+    {
+      "JO": {
+        "name": "Jordan",
+        "kanndaName": "ಜೋರ್ಡಾನ್"
+      }
+    },
+    {
+      "KZ": {
+        "name": "Kazakhstan",
+        "kanndaName": "ಕ Kazakh ಾಕಿಸ್ತಾನ್"
+      }
+    },
+    {
+      "KE": {
+        "name": "Kenya",
+        "kanndaName": "ಕೀನ್ಯಾ"
+      }
+    },
+    {
+      "KI": {
+        "name": "Kiribati",
+        "kanndaName": "ಕಿರಿಬಾಟಿ"
+      }
+    },
+    {
+      "KP": {
+        "name": "Korea",
+        "kanndaName": "ಕೊರಿಯಾ"
+      }
+    },
+    {
+      "KR": {
+        "name": "Korea",
+        "kanndaName": "ಕೊರಿಯಾ"
+      }
+    },
+    {
+      "KW": {
+        "name": "Kuwait",
+        "kanndaName": "ಕುವೈತ್"
+      }
+    },
+    {
+      "KG": {
+        "name": "Kyrgyzstan",
+        "kanndaName": "ಕಿರ್ಗಿಸ್ತಾನ್"
+      }
+    },
+    {
+      "LA": {
+        "name": "Lao",
+        "kanndaName": "ಲಾವೊ"
+      }
+    },
+    {
+      "LV": {
+        "name": "Latvia",
+        "kanndaName": "ಲಾಟ್ವಿಯಾ"
+      }
+    },
+    {
+      "LB": {
+        "name": "Lebanon",
+        "kanndaName": "ಲೆಬನಾನ್"
+      }
+    },
+    {
+      "LS": {
+        "name": "Lesotho",
+        "kanndaName": "ಲೆಸೊಥೊ"
+      }
+    },
+    {
+      "LR": {
+        "name": "Liberia",
+        "kanndaName": "ಲೈಬೀರಿಯಾ"
+      }
+    },
+    {
+      "LY": {
+        "name": "Libya",
+        "kanndaName": "ಲಿಬಿಯಾ"
+      }
+    },
+    {
+      "LI": {
+        "name": "Liechtenstein",
+        "kanndaName": "ಲಿಚ್ಟೆನ್‌ಸ್ಟೈನ್"
+      }
+    },
+    {
+      "LT": {
+        "name": "Lithuania",
+        "kanndaName": "ಲಿಥುವೇನಿಯಾ"
+      }
+    },
+    {
+      "LU": {
+        "name": "Luxembourg",
+        "kanndaName": "ಲಕ್ಸೆಂಬರ್ಗ್"
+      }
+    },
+    {
+      "MO": {
+        "name": "Macao",
+        "kanndaName": "ಮಕಾವೊ"
+      }
+    },
+    {
+      "MG": {
+        "name": "Madagascar",
+        "kanndaName": "ಮಡಗಾಸ್ಕರ್"
+      }
+    },
+    {
+      "MW": {
+        "name": "Malawi",
+        "kanndaName": "ಮಲಾವಿ"
+      }
+    },
+    {
+      "MY": {
+        "name": "Malaysia",
+        "kanndaName": "ಮಲೇಷ್ಯಾ"
+      }
+    },
+    {
+      "MV": {
+        "name": "Maldives",
+        "kanndaName": "ಮಾಲ್ಡೀವ್ಸ್"
+      }
+    },
+    {
+      "ML": {
+        "name": "Mali",
+        "kanndaName": "ಮಾಲಿ"
+      }
+    },
+    {
+      "MT": {
+        "name": "Malta",
+        "kanndaName": "ಮಾಲ್ಟಾ"
+      }
+    },
+    {
+      "MH": {
+        "name": "Marshall Islands",
+        "kanndaName": "ಮಾರ್ಷಲ್ ದ್ವೀಪಗಳು"
+      }
+    },
+    {
+      "MQ": {
+        "name": "Martinique",
+        "kanndaName": "ಮಾರ್ಟಿನಿಕ್"
+      }
+    },
+    {
+      "MR": {
+        "name": "Mauritania",
+        "kanndaName": "ಮೌರಿಟಾನಿಯಾ"
+      }
+    },
+    {
+      "MU": {
+        "name": "Mauritius",
+        "kanndaName": "ಮಾರಿಷಸ್"
+      }
+    },
+    {
+      "YT": {
+        "name": "Mayotte",
+        "kanndaName": "ಮಾಯೊಟ್ಟೆ"
+      }
+    },
+    {
+      "MX": {
+        "name": "Mexico",
+        "kanndaName": "ಮೆಕ್ಸಿಕೊ"
+      }
+    },
+    {
+      "FM": {
+        "name": "Micronesia (Federated States of)",
+        "kanndaName": "ಮೈಕ್ರೋನೇಶಿಯಾ (ಫೆಡರೇಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಆಫ್)"
+      }
+    },
+    {
+      "MD": {
+        "name": "Moldova (the Republic of)",
+        "kanndaName": "ಮೊಲ್ಡೊವಾ (ಗಣರಾಜ್ಯ)"
+      }
+    },
+    {
+      "MC": {
+        "name": "Monaco",
+        "kanndaName": "ಮೊನಾಕೊ"
+      }
+    },
+    {
+      "MN": {
+        "name": "Mongolia",
+        "kanndaName": "ಮಂಗೋಲಿಯಾ"
+      }
+    },
+    {
+      "ME": {
+        "name": "Montenegro",
+        "kanndaName": "ಮಾಂಟೆನೆಗ್ರೊ"
+      }
+    },
+    {
+      "MS": {
+        "name": "Montserrat",
+        "kanndaName": "ಮಾಂಟ್ಸೆರಾಟ್"
+      }
+    },
+    {
+      "MA": {
+        "name": "Morocco",
+        "kanndaName": "ಮೊರಾಕೊ"
+      }
+    },
+    {
+      "MZ": {
+        "name": "Mozambique",
+        "kanndaName": "ಮೊಜಾಂಬಿಕ್"
+      }
+    },
+    {
+      "MM": {
+        "name": "Myanmar",
+        "kanndaName": "ಮ್ಯಾನ್ಮಾರ್"
+      }
+    },
+    {
+      "NA": {
+        "name": "Namibia",
+        "kanndaName": "ನಮೀಬಿಯಾ"
+      }
+    },
+    {
+      "NR": {
+        "name": "Nauru",
+        "kanndaName": "ನೌರು"
+      }
+    },
+    {
+      "NP": {
+        "name": "Nepal",
+        "kanndaName": "ನೇಪಾಳ"
+      }
+    },
+    {
+      "NL": {
+        "name": "Netherlands",
+        "kanndaName": "ನೆದರ್ಲ್ಯಾಂಡ್ಸ್"
+      }
+    },
+    {
+      "NC": {
+        "name": "New Caledonia",
+        "kanndaName": "ನ್ಯೂ ಕ್ಯಾಲೆಡೋನಿಯಾ"
+      }
+    },
+    {
+      "NZ": {
+        "name": "New Zealand",
+        "kanndaName": "ನ್ಯೂಜಿಲ್ಯಾಂಡ್"
+      }
+    },
+    {
+      "NI": {
+        "name": "Nicaragua",
+        "kanndaName": "ನಿಕರಾಗುವಾ"
+      }
+    },
+    {
+      "NE": {
+        "name": "Niger",
+        "kanndaName": "ನೈಜರ್"
+      }
+    },
+    {
+      "NG": {
+        "name": "Nigeria",
+        "kanndaName": "ನೈಜೀರಿಯಾ"
+      }
+    },
+    {
+      "NU": {
+        "name": "Niue",
+        "kanndaName": "ನಿಯು"
+      }
+    },
+    {
+      "NF": {
+        "name": "Norfolk Island",
+        "kanndaName": "ನಾರ್ಫೋಕ್ ದ್ವೀಪ"
+      }
+    },
+    {
+      "MP": {
+        "name": "Northern Mariana Islands",
+        "kanndaName": "ಉತ್ತರ ಮರಿಯಾನಾ ದ್ವೀಪಗಳು"
+      }
+    },
+    {
+      "NO": {
+        "name": "Norway",
+        "kanndaName": "ನಾರ್ವೆ"
+      }
+    },
+    {
+      "OM": {
+        "name": "Oman",
+        "kanndaName": "ಓಮನ್"
+      }
+    },
+    {
+      "PK": {
+        "name": "Pakistan",
+        "kanndaName": "ಪಾಕಿಸ್ತಾನ"
+      }
+    },
+    {
+      "PW": {
+        "name": "Palau",
+        "kanndaName": "ಪಲಾವ್"
+      }
+    },
+    {
+      "PS": {
+        "name": "Palestine State of",
+        "kanndaName": "ಪ್ಯಾಲೆಸ್ಟೈನ್"
+      }
+    },
+    {
+      "PA": {
+        "name": "Panama",
+        "kanndaName": "ಪನಾಮ"
+      }
+    },
+    {
+      "PG": {
+        "name": "Papua New Guinea",
+        "kanndaName": "ಪಪುವಾ ನ್ಯೂಗಿನಿಯಾ"
+      }
+    },
+    {
+      "PY": {
+        "name": "Paraguay",
+        "kanndaName": "ಪರಾಗ್ವೆ"
+      }
+    },
+    {
+      "PE": {
+        "name": "Peru",
+        "kanndaName": "ಪೆರು"
+      }
+    },
+    {
+      "PH": {
+        "name": "Philippines",
+        "kanndaName": "ಫಿಲಿಪೈನ್ಸ್"
+      }
+    },
+    {
+      "PN": {
+        "name": "Pitcairn",
+        "kanndaName": "ಪಿಟ್‌ಕೈರ್ನ್"
+      }
+    },
+    {
+      "PL": {
+        "name": "Poland",
+        "kanndaName": "ಪೋಲೆಂಡ್"
+      }
+    },
+    {
+      "PT": {
+        "name": "Portugal",
+        "kanndaName": "ಪೋರ್ಚುಗಲ್"
+      }
+    },
+    {
+      "PR": {
+        "name": "Puerto Rico",
+        "kanndaName": "ಪೋರ್ಟೊ ರಿಕೊ"
+      }
+    },
+    {
+      "QA": {
+        "name": "Qatar",
+        "kanndaName": "ಕತಾರ್"
+      }
+    },
+    {
+      "MK": {
+        "name": "Republic of North Macedonia",
+        "kanndaName": "ರಿಪಬ್ಲಿಕ್ ಆಫ್ ನಾರ್ತ್ ಮ್ಯಾಸಿಡೋನಿಯಾ"
+      }
+    },
+    {
+      "RO": {
+        "name": "Romania",
+        "kanndaName": "ರೊಮೇನಿಯಾ"
+      }
+    },
+    {
+      "RU": {
+        "name": "Russian Federation",
+        "kanndaName": "ರಷ್ಯ ಒಕ್ಕೂಟ"
+      }
+    },
+    {
+      "RW": {
+        "name": "Rwanda",
+        "kanndaName": "ರುವಾಂಡಾ"
+      }
+    },
+    {
+      "RE": {
+        "name": "Réunion",
+        "kanndaName": "ರಿಯೂನಿಯನ್"
+      }
+    },
+    {
+      "BL": {
+        "name": "Saint Barthélemy",
+        "kanndaName": "ಸಂತ ಬಾರ್ತಲೆಮಿ"
+      }
+    },
+    {
+      "SH": {
+        "name": "Saint Helena",
+        "kanndaName": "ಸಂತ ಹೆಲೆನಾ"
+      }
+    },
+    {
+      "KN": {
+        "name": "Saint Kitts and Nevis",
+        "kanndaName": "ಸೇಂಟ್ ಕಿಟ್ಸ್ ಮತ್ತು ನೆವಿಸ್"
+      }
+    },
+    {
+      "LC": {
+        "name": "Saint Lucia",
+        "kanndaName": "ಸೇಂಟ್ ಲೂಸಿಯಾ"
+      }
+    },
+    {
+      "MF": {
+        "name": "Saint Martin (French part)",
+        "kanndaName": "ಸೇಂಟ್ ಮಾರ್ಟಿನ್ (ಫ್ರೆಂಚ್ ಭಾಗ)"
+      }
+    },
+    {
+      "PM": {
+        "name": "Saint Pierre and Miquelon",
+        "kanndaName": "ಸೇಂಟ್ ಪಿಯರೆ ಮತ್ತು ಮೈಕ್ವೆಲಾನ್"
+      }
+    },
+    {
+      "VC": {
+        "name": "Saint Vincent and the Grenadines",
+        "kanndaName": "ಸೇಂಟ್ ವಿನ್ಸೆಂಟ್ ಮತ್ತು ಗ್ರೆನಡೈನ್ಸ್"
+      }
+    },
+    {
+      "WS": {
+        "name": "Samoa",
+        "kanndaName": "ಸಮೋವಾ"
+      }
+    },
+    {
+      "SM": {
+        "name": "San Marino",
+        "kanndaName": "ಸ್ಯಾನ್ ಮರಿನೋ"
+      }
+    },
+    {
+      "ST": {
+        "name": "Sao Tome and Principe",
+        "kanndaName": "ಸಾವೊ ಟೋಮ್ ಮತ್ತು ಪ್ರಿನ್ಸಿಪಿ"
+      }
+    },
+    {
+      "SA": {
+        "name": "Saudi Arabia",
+        "kanndaName": "ಸೌದಿ ಅರೇಬಿಯಾ"
+      }
+    },
+    {
+      "SN": {
+        "name": "Senegal",
+        "kanndaName": "ಸೆನೆಗಲ್"
+      }
+    },
+    {
+      "RS": {
+        "name": "Serbia",
+        "kanndaName": "ಸೆರ್ಬಿಯಾ"
+      }
+    },
+    {
+      "SC": {
+        "name": "Seychelles",
+        "kanndaName": "ಸೀಶೆಲ್ಸ್"
+      }
+    },
+    {
+      "SL": {
+        "name": "Sierra Leone",
+        "kanndaName": "ಸಿಯೆರಾ ಲಿಯೋನ್"
+      }
+    },
+    {
+      "SG": {
+        "name": "Singapore",
+        "kanndaName": "ಸಿಂಗಾಪುರ"
+      }
+    },
+    {
+      "SX": {
+        "name": "Sint Maarten (Dutch part)",
+        "kanndaName": "ಸಿಂಟ್ ಮಾರ್ಟನ್ (ಡಚ್ ಭಾಗ)"
+      }
+    },
+    {
+      "SK": {
+        "name": "Slovakia",
+        "kanndaName": "ಸ್ಲೋವಾಕಿಯಾ"
+      }
+    },
+    {
+      "SI": {
+        "name": "Slovenia",
+        "kanndaName": "ಸ್ಲೊವೇನಿಯಾ"
+      }
+    },
+    {
+      "SB": {
+        "name": "Solomon Islands",
+        "kanndaName": "ಸೊಲೊಮನ್ ದ್ವೀಪಗಳು"
+      }
+    },
+    {
+      "SO": {
+        "name": "Somalia",
+        "kanndaName": "ಸೊಮಾಲಿಯಾ"
+      }
+    },
+    {
+      "ZA": {
+        "name": "South Africa",
+        "kanndaName": "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ"
+      }
+    },
+    {
+      "GS": {
+        "name": "South Georgia",
+        "kanndaName": "ದಕ್ಷಿಣ ಜಾರ್ಜಿಯಾ"
+      }
+    },
+    {
+      "SS": {
+        "name": "South Sudan",
+        "kanndaName": "ದಕ್ಷಿಣ ಸುಡಾನ್"
+      }
+    },
+    {
+      "ES": {
+        "name": "Spain",
+        "kanndaName": "ಸ್ಪೇನ್"
+      }
+    },
+    {
+      "LK": {
+        "name": "Sri Lanka",
+        "kanndaName": "ಶ್ರೀಲಂಕಾ"
+      }
+    },
+    {
+      "SD": {
+        "name": "Sudan",
+        "kanndaName": "ಸುಡಾನ್"
+      }
+    },
+    {
+      "SR": {
+        "name": "Suriname",
+        "kanndaName": "ಸುರಿನಾಮ್"
+      }
+    },
+    {
+      "SJ": {
+        "name": "Svalbard and Jan Mayen",
+        "kanndaName": "ಸ್ವಾಲ್ಬಾರ್ಡ್ ಮತ್ತು ಜಾನ್ ಮಾಯೆನ್"
+      }
+    },
+    {
+      "SE": {
+        "name": "Sweden",
+        "kanndaName": "ಸ್ವೀಡನ್"
+      }
+    },
+    {
+      "CH": {
+        "name": "Switzerland",
+        "kanndaName": "ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್"
+      }
+    },
+    {
+      "SY": {
+        "name": "Syrian Arab Republic",
+        "kanndaName": "ಸಿರಿಯನ್ ಅರಬ್ ಗಣರಾಜ್ಯ"
+      }
+    },
+    {
+      "TW": {
+        "name": "Taiwan",
+        "kanndaName": "ತೈವಾನ್"
+      }
+    },
+    {
+      "TJ": {
+        "name": "Tajikistan",
+        "kanndaName": "ತಜಿಕಿಸ್ತಾನ್"
+      }
+    },
+    {
+      "TZ": {
+        "name": "Tanzania",
+        "kanndaName": "ಟಾಂಜಾನಿಯಾ"
+      }
+    },
+    {
+      "TH": {
+        "name": "Thailand",
+        "kanndaName": "ಥೈಲ್ಯಾಂಡ್"
+      }
+    },
+    {
+      "TL": {
+        "name": "Timor-Leste",
+        "kanndaName": "ಟಿಮೋರ್-ಲೆಸ್ಟೆ"
+      }
+    },
+    {
+      "TG": {
+        "name": "Togo",
+        "kanndaName": "ಹೋಗಲು"
+      }
+    },
+    {
+      "TK": {
+        "name": "Tokelau",
+        "kanndaName": "ಟೋಕೆಲಾವ್"
+      }
+    },
+    {
+      "TO": {
+        "name": "Tonga",
+        "kanndaName": "ಟೋಂಗಾ"
+      }
+    },
+    {
+      "TT": {
+        "name": "Trinidad and Tobago",
+        "kanndaName": "ಟ್ರಿನಿಡಾಡ್ ಮತ್ತು ಟೊಬಾಗೊ"
+      }
+    },
+    {
+      "TN": {
+        "name": "Tunisia",
+        "kanndaName": "ಟುನೀಶಿಯಾ"
+      }
+    },
+    {
+      "TR": {
+        "name": "Turkey",
+        "kanndaName": "ಟರ್ಕಿ"
+      }
+    },
+    {
+      "TM": {
+        "name": "Turkmenistan",
+        "kanndaName": "ತುರ್ಕಮೆನಿಸ್ತಾನ್"
+      }
+    },
+    {
+      "TC": {
+        "name": "Turks and Caicos Islands",
+        "kanndaName": "ಟರ್ಕ್ಸ್ ಮತ್ತು ಕೈಕೋಸ್ ದ್ವೀಪಗಳು"
+      }
+    },
+    {
+      "TV": {
+        "name": "Tuvalu",
+        "kanndaName": "ತುವಾಲು"
+      }
+    },
+    {
+      "UG": {
+        "name": "Uganda",
+        "kanndaName": "ಉಗಾಂಡಾ"
+      }
+    },
+    {
+      "UA": {
+        "name": "Ukraine",
+        "kanndaName": "ಉಕ್ರೇನ್"
+      }
+    },
+    {
+      "AE": {
+        "name": "United Arab Emirates",
+        "kanndaName": "ಸಂಯುಕ್ತ ಅರಬ್ ಸಂಸ್ಥಾಪನೆಗಳು"
+      }
+    },
+    {
+      "GB": {
+        "name": "United Kingdom of Great Britain",
+        "kanndaName": "ಯುನೈಟೆಡ್ ಕಿಂಗ್‌ಡಮ್ ಆಫ್ ಗ್ರೇಟ್ ಬ್ರಿಟನ್"
+      }
+    },
+    {
+      "UM": {
+        "name": "United States Minor Outlying Islands",
+        "kanndaName": "ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಮೈನರ್ ಹೊರಗಿನ ದ್ವೀಪಗಳು"
+      }
+    },
+    {
+      "US": {
+        "name": "United States of America",
+        "kanndaName": "ಅಮೆರಿಕ ರಾಜ್ಯಗಳ ಒಕ್ಕೂಟ"
+      }
+    },
+    {
+      "UY": {
+        "name": "Uruguay",
+        "kanndaName": "ಉರುಗ್ವೆ"
+      }
+    },
+    {
+      "UZ": {
+        "name": "Uzbekistan",
+        "kanndaName": "ಉಜ್ಬೇಕಿಸ್ತಾನ್"
+      }
+    },
+    {
+      "VU": {
+        "name": "Vanuatu",
+        "kanndaName": "ವನವಾಟು"
+      }
+    },
+    {
+      "VE": {
+        "name": "Venezuela",
+        "kanndaName": "ವೆನೆಜುವೆಲಾ"
+      }
+    },
+    {
+      "VN": {
+        "name": "Viet Nam",
+        "kanndaName": "ವಿಯೆಟ್ನಾಮ್"
+      }
+    },
+    {
+      "VG": {
+        "name": "Virgin Islands",
+        "kanndaName": "ವರ್ಜಿನ್ ದ್ವೀಪಗಳು"
+      }
+    },
+    {
+      "VI": {
+        "name": "Virgin Islands",
+        "kanndaName": "ವರ್ಜಿನ್ ದ್ವೀಪಗಳು"
+      }
+    },
+    {
+      "WF": {
+        "name": "Wallis and Futuna",
+        "kanndaName": "ವಾಲಿಸ್ ಮತ್ತು ಫುಟುನಾ"
+      }
+    },
+    {
+      "EH": {
+        "name": "Western Sahara",
+        "kanndaName": "ಪಶ್ಚಿಮ ಸಹಾರಾ"
+      }
+    },
+    {
+      "YE": {
+        "name": "Yemen",
+        "kanndaName": "ಯೆಮೆನ್"
+      }
+    },
+    {
+      "ZM": {
+        "name": "Zambia",
+        "kanndaName": "ಜಾಂಬಿಯಾ"
+      }
+    },
+    {
+      "ZW": {
+        "name": "Zimbabwe",
+        "kanndaName": "ಜಿಂಬಾಬ್ವೆ"
+      }
+    },
+    {
+      "AX": {
+        "name": "Åland Islands",
+        "kanndaName": "ಓಲ್ಯಾಂಡ್ ದ್ವೀಪ್ಸೌ"
+      }
+    }
+  ]
+}
